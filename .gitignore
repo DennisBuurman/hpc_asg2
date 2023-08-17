@@ -1,0 +1,4 @@
+*.o
+mst
+benchmark/
+.vscode/
